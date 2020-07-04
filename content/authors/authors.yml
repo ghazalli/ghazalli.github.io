@@ -1,13 +1,15 @@
-- name: Theo Budiyanto
+- name: Muhammad Ghazalli
   bio: |
-    Graduated from UC Berkeley 2016, ex Splunk SF. 
-    Currently working on Delman
-  avatar: ./avatars/theo.jpg
+    AI & Data Enthusiast.
+    Currently working to making sense of data.
+  avatar: ./avatars/ghazalli.jpg
   featured: true
   social:
-    - name: twitter
-      url: https://twitter.com/tibudiyanto
+    - name: linkedin
+      url: https://linkedin.com/in/muhammad-ghazalli
     - name: github
-      url: https://github.com/tibudiyanto
+      url: https://github.com/ghazalli
+    - name: twitter
+      url: https://twitter.com/ghazaIIi
     - name: instagram
-      url: https://instagram.com/tibudyanto
+      url: https://www.instagram.com/ghazalli___

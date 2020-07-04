@@ -1,21 +1,18 @@
 module.exports = {
   siteMetadata: {
-    title: `Theo Budiyanto`,
-    name: `@tibudiyanto`,
-    siteUrl: `https://wacana.xyz`,
-    description: `Theo Budiyanto blog`,
+    title: `Ghazalli's Personal Site`,
+    name: `Muhammad Ghazalli`,
+    siteUrl: `https://ghazalli.github.io`,
+    description: `Muhammad Ghazalli's personal site`,
     hero: {
-      heading: `Engineering and Chill`,
+      heading: `Data extractor`,
       maxWidth: 652
     },
-    social: [
-      {
-        name: `twitter`,
-        url: `https://twitter.com/tibudiyanto`
-      },
-      { name: "github", url: "https://github.com/tibudiyanto" },
-
-      { name: "instagram", url: "https://instagram.com/tibudiyanto" }
+      social: [
+        {name: "linkedin", url: "https://linkedin.com/in/muhammad-ghazalli"},
+        {name: "twitter", url: "https://twitter.com/ghazaIIi"},
+        {name: "github", url: "https://github.com/ghazalli"},
+        {name: "instagram", url: "https://www.instagram.com/ghazalli___"}
     ]
   },
   plugins: [
@@ -35,8 +32,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Theo`,
-        short_name: `Theo's Blog`,
+        name: `Ghazalli`,
+        short_name: `Ghazalli's Personal Site`,
         start_url: `/`,
         background_color: `#fff`,
         theme_color: `#fff`,
